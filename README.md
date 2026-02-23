@@ -1,1 +1,2 @@
-SymbolExchange. Python tutorials. Algorithms. Strings. Input/Output. Console Application. 
+SymbolExchange. Python tutorials. Simple Input/Output. Algorithms. Strings. Console Application. 
+SymbolExchange. Занятия по Python. Простой Ввод-вывод. Алгоритмы. Строки. Консольное приложение.
