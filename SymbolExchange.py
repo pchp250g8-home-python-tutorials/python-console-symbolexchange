@@ -1,4 +1,4 @@
-# -- encoding:utf-8 --
+# -- coding:utf-8 --
 import os
 
 os.system("chcp 866 >nul")
